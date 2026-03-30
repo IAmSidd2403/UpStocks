@@ -16,7 +16,6 @@ export const metadata: Metadata = {
   title: "UpStocks",
   description: "Track real-time stocks prices, get personalized alerts and explore detailed company insights.",
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{
